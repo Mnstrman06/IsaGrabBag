@@ -6,22 +6,22 @@ arrowBubble.placements = {
     {
         name = "left",
         data = {
-            direction = left
+            direction = "left"
         }
     },
         name = "right",
         data = {
-            direction = right
+            direction = "right"
         }
     },
         name = "up",
         data = {
-            direction = up
+            direction = "up"
         }
     },
         name = "down",
         data = {
-            direction = down
+            direction = "down"
         }
     }
 }
