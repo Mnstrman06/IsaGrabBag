@@ -1,5 +1,5 @@
 # Mod Name
-mods.IsaGrabBag.name=Isa's Grab Bag
+mods.IsaGrabBag.name=IsaGrabBag
 
 # Arrow Bubble
 entities.isaBag/arrowBubble.placements.name.left=Arrow Bubble (Left)
@@ -52,6 +52,6 @@ triggers.isaBag/coreWindTrigger.attributes.description.patternHot=The wind patte
 triggers.isaBag/coreWindTrigger.attributes.description.patternCold=The wind pattern to use when the core mode is Cold.
 
 # Force Variant Trigger
-triggers.ForceVariantTrigger.placements.name.default=Force Variant Trigger
-triggers.ForceVariantTrigger.attributes.description.variantChange=The variant to change.
-triggers.ForceVariantTrigger.attributes.description.enableStyle=The change to apply to the variant when entering the trigger.\n* Enabled/Disabled: turns the variant on or off.\n* Permanent: applies the change to the session so it persists after S&Q.\n* Temporary: reverts the change after leaving the trigger.\n* Toggle: changes the variant to the opposite of its current state.\n* SetToDefault: sets the variant to its initial state.
+triggers.isaBag/forceVariantTrigger.placements.name.default=Force Variant Trigger
+triggers.isaBag/forceVariantTrigger.attributes.description.variantChange=The variant to change.
+triggers.isaBag/forceVariantTrigger.attributes.description.enableStyle=The change to apply to the variant when entering the trigger.\n* Enabled/Disabled: turns the variant on or off.\n* Permanent: applies the change to the session so it persists after S&Q.\n* Temporary: reverts the change after leaving the trigger.\n* Toggle: changes the variant to the opposite of its current state.\n* SetToDefault: sets the variant to its initial state.

@@ -5,7 +5,6 @@ arrowBubble.texture = "objects/booster/boosterRed00"
 arrowBubble.depth = -100
 arrowBubble.placements = {
     {
-        {
         name = "left",
         data = {
             direction = "left"
