@@ -5,7 +5,9 @@ waterBoost.depth = 0
 waterBoost.texture = "isafriend/helperimage"
 waterBoost.placements = {
     name = "default",
-    boostEnabled = true
+    data = {
+        boostEnabled = true
+    }
 }
 
 return waterBoost
