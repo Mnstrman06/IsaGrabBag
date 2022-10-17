@@ -9,7 +9,9 @@ zipline.nodeVisibility = "always"
 zipline.nodeLineRenderType = "line"
 zipline.placements = {
     name = "default",
-    useStamina = true
+    data = {
+        useStamina = true
+    }
 }
 
 return zipline
