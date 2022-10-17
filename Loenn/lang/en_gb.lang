@@ -9,12 +9,12 @@ entities.isaBag/arrowBubble.placements.name.up=arrow Bubble (Up)
 entities.isaBag/arrowBubble.attributes.description.direction=The direction that the bubble will curve in.
 
 # Badeline Friend
+entities.isaBag/cornerBlock.placements.name.default=badeline Friend
+
+# Corner Block
 entities.isaBag/cornerBlock.placements.name.default=corner Block
 entities.isaBag/cornerBlock.attributes.description.tiletype=Changes the visual appearance of the block.
 entities.isaBag/cornerBlock.attributes.description.useTileset=Whether to use the tiletype field instead of the default block texture.
-
-# Corner Boost Block
-entities.isaBag/cornerBlock.placements.name.default=badeline Friend
 
 # Dream Spinner
 entities.isaBag/dreamSpinner.placements.name.multiple=dream Spinner
