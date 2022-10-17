@@ -11,39 +11,12 @@ coreWindTrigger.placements = {
 
 coreWindTrigger.fieldInformation = {
     patternCold = {
-        options = {
-            "None",
-            "Left",
-            "Right",
-            "LeftStrong",
-            "RightStrong",
-            "LeftOnOff",
-            "RightOnOff",
-            "Alternating",
-            "LeftGemsOnly",
-            "RightCrazy",
-            "Down",
-            "Up",
-            "Space"
-        },
-        editable = false,
+        options = enums.wind_patterns,
+        editable = false
+        }
     },
     patternHot = {
-        options = {
-            "None",
-            "Left",
-            "Right",
-            "LeftStrong",
-            "RightStrong",
-            "LeftOnOff",
-            "RightOnOff",
-            "Alternating",
-            "LeftGemsOnly",
-            "RightCrazy",
-            "Down",
-            "Up",
-            "Space"
-        },
+        options = enums.wind_patterns,
         editable = false
     }
 }
