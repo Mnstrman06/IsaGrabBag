@@ -1,18 +1,29 @@
 # Mod Name
-mods.EverestYamlName.name=IsaGrabBag
+mods.IsaGrabBag.name=Isa's 
 
 # Arrow Bubble
-entities.isaBag/arrowBubble.placements.name.default=arrow Bubble
+entities.isaBag/arrowBubble.placements.name.left=arrow Bubble (Left)
+entities.isaBag/arrowBubble.placements.name.right=arrow Bubble (Right)
+entities.isaBag/arrowBubble.placements.name.down=arrow Bubble (Down)
+entities.isaBag/arrowBubble.placements.name.up=arrow Bubble (Up)
 entities.isaBag/arrowBubble.attributes.description.direction=The direction that the bubble will curve in.
 
-# Corner Boost Block
+# Badeline Friend
 entities.isaBag/cornerBlock.placements.name.default=corner Block
 entities.isaBag/cornerBlock.attributes.description.tiletype=Changes the visual appearance of the block.
 entities.isaBag/cornerBlock.attributes.description.useTileset=Whether to use the tiletype field instead of the default block texture.
 
+# Corner Boost Block
+entities.isaBag/cornerBlock.placements.name.default=badeline Friend
+
 # Dream Spinner
-entities.isaBag/dreamSpinner.placements.name.default=dream Spinner
+entities.isaBag/dreamSpinner.placements.name.multiple=dream Spinner
+entities.isaBag/dreamSpinner.placements.name.once=dream Spinner (One Use) 
 entities.isaBag/dreamSpinner.attributes.description.useOnce=Whether the spinner should shatter after being dashed through.
+
+# Fake Dream Spinner
+entities.isaBag/fakeDreamSpinner.placements.name.default=fake Dream Spinner
+entities.isaBag/fakeDreamSpinner.attributes.description.useOnce=Whether the spinner should shatter after being dashed through.
 
 # Friendly Kevin
 entities.isaBag/arrowBlock.placements.name.default=arrow Block
@@ -20,12 +31,15 @@ entities.isaBag/arrowBlock.attributes.description.distance=The maximum distance 
 entities.isaBag/arrowBlock.attributes.description.inverted=Whether the Kevin should move in the opposite direction of the player's movement.
 entities.isaBag/arrowBlock.attributes.description.movementRestriction=The axis the Kevin is allowed to move on. Use "no_limit" for free movement.
 
+# Pause Crystal
+entities.isaBag/pauseCrystal.placements.name.default=pause Crystal
+
 # Rewind Crystal
 entities.isaBag/rewindCrystal.placements.name.default=rewind Crystal
 entities.isaBag/rewindCrystal.attributes.description.oneUse=Whether the refill should respawn after being used.
 
 # Water Boost Controller
-entities.isaBag/waterBoost.placements.name.default=water Boost
+entities.isaBag/waterBoost.placements.name.default=water Boost Controller
 entities.isaBag/waterBoost.attributes.description.boostEnabled=Whether to enable waterboosting in the map.
 
 # Zipline
