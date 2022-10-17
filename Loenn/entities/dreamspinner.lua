@@ -5,13 +5,13 @@ dreamSpinner.depth = 0
 dreamSpinner.texture = "isafriend/danger/crystal/fg_dreamspinner"
 dreamSpinner.placements = {
     {
-        name = "Dream Spinner (IsaGrabBag)",
+        name = "multiple",
         data = {
             useOnce = false
         }
     },
     {
-        name = "Dream Spinner (One Use) (IsaGrabBag)",
+        name = "once",
         data = {
             useOnce = true
         }
