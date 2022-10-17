@@ -6,9 +6,9 @@ zipline.texture = "isafriend/objects/zipline/handle"
 zipline.nodeTexture = "isafriend/objects/zipline/handle_end"
 zipline.nodeLimits = {0, -1}
 zipline.nodeVisibility = "always"
-zipline.nodeLineRenderType = "fan"
+zipline.nodeLineRenderType = "line"
 zipline.placements = {
-    name = "Zipline (IsaGrabBag)",
+    name = "default",
     useStamina = true
 }
 
