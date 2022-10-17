@@ -1,6 +1,7 @@
 local arrowBubble = {}
 
 arrowBubble.name = "isaBag/arrowBubble"
+arrowBubble.texture = "objects/booster/boosterRed00"
 arrowBubble.depth = -100
 arrowBubble.placements = {
     {
@@ -41,7 +42,5 @@ arrowBubble.fieldInformation = {
         editable = false
     }
 }
-
-local texture = "isafriend/objects/booster/booster" .. dir .. "00"
 
 return arrowBubble
