@@ -2,7 +2,7 @@ local coreWindTrigger = {}
 
 coreWindTrigger.name = "isaBag/coreWindTrigger"
 coreWindTrigger.placements = {
-    name = "Core Wind Trigger (IsaGrabBag)",
+    name = "default)",
     data = {
         patternCold = "Down",
         patternHot = "Up"
