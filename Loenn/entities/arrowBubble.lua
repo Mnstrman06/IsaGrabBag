@@ -26,6 +26,18 @@ arrowBubble.placements = {
     }
 }
 
-#TODO: add texture based on direction
+arrowBubble.fieldInformation = {
+    direction = {
+        options = {
+            "left",
+            "right",
+            "up",
+            "down"
+        },
+        editable = false
+    }
+}
+
+local texture = "isafriend/objects/booster/booster" .. dir .. "00"
 
 return arrowBubble
