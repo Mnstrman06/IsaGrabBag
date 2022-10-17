@@ -4,22 +4,22 @@ arrowBubble.name = "isaBag/arrowBubble"
 arrowBubble.depth = -100
 arrowBubble.placements = {
     {
-        name = "Arrow Bubble (Left, IsaGrabBag)",
+        name = "left",
         data = {
             direction = left
         }
     },
-        name = "Arrow Bubble (Right, IsaGrabBag)",
+        name = "right",
         data = {
             direction = right
         }
     },
-        name = "Arrow Bubble (Up, IsaGrabBag)",
+        name = "up",
         data = {
             direction = up
         }
     },
-        name = "Arrow Bubble (Down, IsaGrabBag)",
+        name = "down",
         data = {
             direction = down
         }
