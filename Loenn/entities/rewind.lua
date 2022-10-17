@@ -7,6 +7,7 @@ rewindCrystal.placements = {
     name = "default",
     data = {
         oneUse = true
+    }
 }
 
 return rewindCrystal
