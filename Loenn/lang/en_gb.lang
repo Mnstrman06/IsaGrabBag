@@ -1,5 +1,5 @@
 # Mod Name
-mods.IsaGrabBag.name=Isa's Grab Bag
+mods.isaBag.name=Isa's Grab Bag
 
 # Arrow Bubble
 entities.isaBag/arrowBubble.placements.name.left=Arrow Bubble (Left)
